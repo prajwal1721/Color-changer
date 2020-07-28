@@ -1,0 +1,49 @@
+.holder2{
+    background-color: azure;
+    width: 30%;
+    text-align: center;
+    padding :2%;
+    flex-direction: column;
+    align-items: center;
+    margin: 19%;
+}
+
+.list{
+    background-color: white;
+  border: 1px solid black;
+    align-content: center;
+    display: inline-block;
+    padding: 10px;
+}
+.color h2{
+  box-sizing: border-box;
+    text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+*{
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+   background-color: rgb(255,255,255);
+  box-sizing: border-box;
+}
+
+body{
+   
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+.color-numbers{
+    background-color: rgb(238, 215, 215);
+    color: rgb(0, 0, 0);
+    height: min-content;
+    border-style: double;
+}
